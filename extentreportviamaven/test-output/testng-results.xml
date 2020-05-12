@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Suite" duration-ms="50621" started-at="2020-05-11T19:49:00Z" finished-at="2020-05-11T19:49:51Z">
+    <groups>
+    </groups>
+    <test name="Test Cases" duration-ms="50621" started-at="2020-05-11T19:49:00Z" finished-at="2020-05-11T19:49:51Z">
+      <class name="MavenPackage.test1">
+        <test-method status="PASS" signature="openfacebook()[pri:0, instance:MavenPackage.test1@464bee09]" name="openfacebook" duration-ms="15712" started-at="2020-05-12T01:19:00Z" finished-at="2020-05-12T01:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfacebook -->
+        <test-method status="PASS" signature="opengoogle()[pri:0, instance:MavenPackage.test1@464bee09]" name="opengoogle" duration-ms="6661" started-at="2020-05-12T01:19:16Z" finished-at="2020-05-12T01:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opengoogle -->
+        <test-method status="PASS" signature="openjavatpoint()[pri:0, instance:MavenPackage.test1@464bee09]" name="openjavatpoint" duration-ms="20828" started-at="2020-05-12T01:19:23Z" finished-at="2020-05-12T01:19:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openjavatpoint -->
+        <test-method status="PASS" signature="openw3schools()[pri:0, instance:MavenPackage.test1@464bee09]" name="openw3schools" duration-ms="7356" started-at="2020-05-12T01:19:44Z" finished-at="2020-05-12T01:19:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openw3schools -->
+      </class> <!-- MavenPackage.test1 -->
+    </test> <!-- Test Cases -->
+  </suite> <!-- Test Suite -->
+</testng-results>
